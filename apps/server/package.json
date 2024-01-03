@@ -9,8 +9,6 @@
     "lint": "make fmt",
     "test": "make test"
   },
-  "dependencies": {
-  },
-  "devDependencies": {
-  }
+  "dependencies": {},
+  "devDependencies": {}
 }
