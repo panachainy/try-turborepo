@@ -1,0 +1,16 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "install": "make i",
+    "dev": "air",
+    "build": "make build",
+    "lint": "make fmt",
+    "test": "make test"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
