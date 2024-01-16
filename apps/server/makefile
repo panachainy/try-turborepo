@@ -38,3 +38,6 @@ generate:
 b: build
 build:
 	go build -o apiserver ./cmd
+
+docker:
+	docker build -t server:latest .

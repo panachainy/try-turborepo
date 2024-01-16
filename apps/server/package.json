@@ -7,7 +7,8 @@
     "dev": "air",
     "build": "make build",
     "lint": "make fmt",
-    "test": "make test"
+    "test": "make test",
+    "docker": "make docker"
   },
   "dependencies": {},
   "devDependencies": {}
